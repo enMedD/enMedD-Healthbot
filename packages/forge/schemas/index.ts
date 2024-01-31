@@ -21,7 +21,7 @@ export const forgedBlocks = [
   chatNode,
   qrCode,
   difyAi,
-  mistral
+  mistral,
 ] as BlockDefinition<(typeof enabledBlocks)[number], any, any>[]
 
 export type ForgedBlockDefinition = (typeof forgedBlocks)[number]
