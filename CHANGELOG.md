@@ -1,6 +1,7 @@
 # Changelog
 
 <a name="2.21.3"></a>
+
 ## 2.21.3 (2024-01-04)
 
 ### Changed
@@ -17,22 +18,21 @@
 
 - 📝 Add Contribute docs [[65f4fb0](https://github.com/baptisteArno/typebot.io/commit/65f4fb0d7a869bb61593317cdea38994c6f2bd29)]
 
-
 <a name="2.21.2"></a>
+
 ## 2.21.2 (2024-01-02)
 
 ### Miscellaneous
 
 - 🧑‍💻 (webhook) Disable webhook timeout if CHAT_API_TIM… [[e8b9ef4](https://github.com/baptisteArno/typebot.io/commit/e8b9ef4d6cdb770ba580539452780e0fd1cc57cf)]
 
-
 <a name="2.21.1"></a>
+
 ## 2.21.1 (2024-01-02)
 
 ### Security
 
 - 🔒 (logs) Remove some logs from API response to avoid sensit… [[b5fbba7](https://github.com/baptisteArno/typebot.io/commit/b5fbba70720261da0f8ecc00beb9b93efe1369d8)]
-
 
 <a name="2.21.0"></a>
 

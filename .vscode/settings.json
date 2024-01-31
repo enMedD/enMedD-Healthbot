@@ -12,7 +12,7 @@
   "editor.tabSize": 2,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "playwright.env": {
-    "DATABASE_URL": "postgresql://postgres:typebot@localhost:5432/typebot",
+    "DATABASE_URL": "postgresql://postgres.lswbfyethjklkzkzeobk:enMedD123_&@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres",
     "NEXT_PUBLIC_VIEWER_URL": "http://localhost:3001",
     "NEXTAUTH_URL": "http://localhost:3000"
   },
